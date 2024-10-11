@@ -1,2 +1,3 @@
 And again we met with Git
 Have you ever met it?
+Yes, I have.
